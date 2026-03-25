@@ -70,9 +70,10 @@
 	"enablePasswordAccess": true,
 	"passwordAccessCategories": [
 		"Chara",
-		"Games",
 		"Notes",
-		"Soft"
+		"Soft",
+		"blog",
+		"Games"
 	],
 	"passwordAccessPassword": "654321",
 	"beian": {
