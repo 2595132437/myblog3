@@ -67,12 +67,12 @@
 	"currentHatIndex": 3,
 	"hatFlipped": false,
 	"enableChristmas": true,
-	"enablePasswordAccess": false,
+	"enablePasswordAccess": true,
 	"passwordAccessCategories": [
 		"Chara",
 		"Games"
 	],
-	"passwordAccessPassword": "110110",
+	"passwordAccessPassword": "654321",
 	"beian": {
 		"text": "",
 		"link": ""
